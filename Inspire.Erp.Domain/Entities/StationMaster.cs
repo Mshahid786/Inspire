@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Inspire.Erp.Domain.Entities
+{
+    public partial class StationMaster
+    {
+        public int? StationMasterCode { get; set; }
+        public string StationMasterStationName { get; set; }
+        public string StationMasterAddress { get; set; }
+        public string StationMasterCity { get; set; }
+        public string StationMasterPostOffice { get; set; }
+        public string StationMasterTele1 { get; set; }
+        public string StationMasterTele2 { get; set; }
+        public string StationMasterFax { get; set; }
+        public string StationMasterEmail { get; set; }
+        public string StationMasterWebSite { get; set; }
+        public string StationMasterCountry { get; set; }
+        public string StationMasterLogoPath { get; set; }
+        public string StationMasterSignPath { get; set; }
+        public byte[] StationMasterLogoImg { get; set; }
+        public byte[] StationMasterSignImg { get; set; }
+        public byte[] StationMasterSealImg { get; set; }
+        public string StationMasterVatNo { get; set; }
+        public bool? StationMasterDelStatus { get; set; }
+    }
+}
