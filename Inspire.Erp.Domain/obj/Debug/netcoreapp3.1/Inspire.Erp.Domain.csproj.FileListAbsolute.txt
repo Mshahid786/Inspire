@@ -37,3 +37,16 @@ E:\Inspire\Shahid\InspireERP-main\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Ins
 E:\Inspire\Shahid\InspireERP-main\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Inspire.Erp.Domain.dll
 E:\Inspire\Shahid\InspireERP-main\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Inspire.Erp.Domain.pdb
 E:\Inspire\Shahid\InspireERP-main\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Inspire.Erp.Domain.genruntimeconfig.cache
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\bin\Debug\netcoreapp3.1\Inspire.Erp.Domain.deps.json
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\bin\Debug\netcoreapp3.1\Inspire.Erp.Domain.runtimeconfig.json
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\bin\Debug\netcoreapp3.1\Inspire.Erp.Domain.runtimeconfig.dev.json
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\bin\Debug\netcoreapp3.1\Inspire.Erp.Domain.dll
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\bin\Debug\netcoreapp3.1\Inspire.Erp.Domain.pdb
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Inspire.Erp.Domain.csproj.AssemblyReference.cache
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Inspire.Erp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Inspire.Erp.Domain.AssemblyInfoInputs.cache
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Inspire.Erp.Domain.AssemblyInfo.cs
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Inspire.Erp.Domain.csproj.CoreCompileInputs.cache
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Inspire.Erp.Domain.dll
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Inspire.Erp.Domain.pdb
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Domain\obj\Debug\netcoreapp3.1\Inspire.Erp.Domain.genruntimeconfig.cache

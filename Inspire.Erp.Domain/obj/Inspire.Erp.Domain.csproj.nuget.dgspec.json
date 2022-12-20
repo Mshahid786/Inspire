@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {}
+    "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {}
   },
   "projects": {
-    "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
+    "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj",
+        "projectUniqueName": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj",
         "projectName": "Inspire.Erp.Domain",
-        "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj",
+        "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj",
         "packagesPath": "C:\\Users\\Shahid\\.nuget\\packages\\",
-        "outputPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\obj\\",
+        "outputPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

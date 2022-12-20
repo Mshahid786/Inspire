@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yd3OtUshz5bngFprb6eFEjCj6yBKvHZcHAjAspHbxmG6Ixn98nmrSfJFUDRQTEBynnzAwrpG9/1RG5YDgxKT+w==",
+  "dgSpecHash": "RM4ztiEruIFAkqOZrIdWP1JgAAlYobxocE/MSkN97ftefz5yD1512YX0MgagBtO9HtR1jg/R7OXzCTjfmrbokQ==",
   "success": true,
-  "projectFilePath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Web\\Inspire.Erp.Web.csproj",
+  "projectFilePath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Web\\Inspire.Erp.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shahid\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Shahid\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

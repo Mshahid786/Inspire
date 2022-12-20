@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Web\\Inspire.Erp.Web.csproj": {}
+    "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Web\\Inspire.Erp.Web.csproj": {}
   },
   "projects": {
-    "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj": {
+    "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj",
+        "projectUniqueName": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj",
         "projectName": "Inspire.Erp.Application",
-        "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj",
+        "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj",
         "packagesPath": "C:\\Users\\Shahid\\.nuget\\packages\\",
-        "outputPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Application\\obj\\",
+        "outputPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
-                "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj"
+              "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
+                "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj"
               },
-              "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj": {
-                "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj"
+              "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj": {
+                "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
+    "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj",
+        "projectUniqueName": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj",
         "projectName": "Inspire.Erp.Domain",
-        "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj",
+        "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj",
         "packagesPath": "C:\\Users\\Shahid\\.nuget\\packages\\",
-        "outputPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\obj\\",
+        "outputPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -165,14 +165,14 @@
         }
       }
     },
-    "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj": {
+    "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj",
+        "projectUniqueName": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj",
         "projectName": "Inspire.Erp.Infrastructure",
-        "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj",
+        "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Shahid\\.nuget\\packages\\",
-        "outputPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Infrastructure\\obj\\",
+        "outputPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,8 +194,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
-                "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj"
+              "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
+                "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj"
               }
             }
           }
@@ -239,14 +239,14 @@
         }
       }
     },
-    "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Web\\Inspire.Erp.Web.csproj": {
+    "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Web\\Inspire.Erp.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Web\\Inspire.Erp.Web.csproj",
+        "projectUniqueName": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Web\\Inspire.Erp.Web.csproj",
         "projectName": "Inspire.Erp.Web",
-        "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Web\\Inspire.Erp.Web.csproj",
+        "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Web\\Inspire.Erp.Web.csproj",
         "packagesPath": "C:\\Users\\Shahid\\.nuget\\packages\\",
-        "outputPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Web\\obj\\",
+        "outputPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -268,14 +268,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj": {
-                "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj"
+              "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj": {
+                "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj"
               },
-              "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
-                "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj"
+              "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
+                "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj"
               },
-              "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj": {
-                "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj"
+              "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj": {
+                "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj"
               }
             }
           }

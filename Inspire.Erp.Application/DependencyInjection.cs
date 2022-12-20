@@ -9,12 +9,17 @@ using Inspire.Erp.Application.Master;
 using Inspire.Erp.Application.StoreWareHouse.Interfaces;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Inspire.Erp.Application.VoucherPrinting.Interface;
+using Inspire.Erp.Application.VoucherPrinting.Implementation;
+
 namespace Inspire.Erp.Application
 {
     public static class DependencyInjection
     {
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
+
+            services.AddScoped<IvoucherPrinting, Inspire.Erp.Application.VoucherPrinting.Implementation.VoucherPrinting>();
             services.AddScoped(typeof(IMapFrom<>), typeof(MapFrom<>));
             services.AddScoped<ICurrencyMasterService, CurrencyMasterService>();
             services.AddScoped<ISupplierMasterService, SupplierMasterService>();

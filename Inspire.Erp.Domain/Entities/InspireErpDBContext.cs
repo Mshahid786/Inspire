@@ -15,6 +15,7 @@ namespace Inspire.Erp.Domain.Entities
         {
             Configuration = _Configuration;
         }
+        public virtual DbSet<GetVoucherPrintResponse> VPrinting { get; set; }
         public virtual DbSet<AccountSettings> AccountSettings { get; set; }
         public virtual DbSet<AccountsTransactions> AccountsTransactions { get; set; }
         public virtual DbSet<ActivityLog> ActivityLog { get; set; }
@@ -279,6 +280,7 @@ namespace Inspire.Erp.Domain.Entities
         {
 
             #region If the db table and entity has same name
+            modelBuilder.Entity<GetVoucherPrintResponse>().HasNoKey();
             modelBuilder.Entity<ProfitLossResponse>().HasNoKey();
             modelBuilder.Entity<StockRegisterResponse>().HasNoKey();
             modelBuilder.Entity<StockMovementRptResponse>().HasNoKey();

@@ -5265,11 +5265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj",
+      "projectUniqueName": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj",
       "projectName": "Inspire.Erp.Application",
-      "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj",
+      "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Application\\Inspire.Erp.Application.csproj",
       "packagesPath": "C:\\Users\\Shahid\\.nuget\\packages\\",
-      "outputPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Application\\obj\\",
+      "outputPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5291,11 +5291,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
-              "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj"
+            "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj": {
+              "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj"
             },
-            "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj": {
-              "projectPath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj"
+            "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj": {
+              "projectPath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Infrastructure\\Inspire.Erp.Infrastructure.csproj"
             }
           }
         }

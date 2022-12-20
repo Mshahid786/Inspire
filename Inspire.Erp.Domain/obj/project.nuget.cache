@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rd0VrdtqR2fiB25cdjuSqwAk9YUXHQ5/18wuRgwsSc/8W/GCojPqBQVPfaIOr9VaWp/0lYBZq6bnMrvt/gSsDg==",
+  "dgSpecHash": "lEI7HrheH3fr2EpYK8rVUHyoodJYaOxFVbJNj/W1SveBK/dtZeHnNvgs9jgYwHNjYBmZ7k54agEkZMIwQ89F+Q==",
   "success": true,
-  "projectFilePath": "E:\\Inspire\\Shahid\\InspireERP-main\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj",
+  "projectFilePath": "E:\\Inspire\\InspireUploadedWorking\\Inspire.Erp.Domain\\Inspire.Erp.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shahid\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Shahid\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

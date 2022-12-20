@@ -37,3 +37,16 @@ E:\Inspire\Shahid\InspireERP-main\Inspire.Erp.Infrastructure\obj\Debug\netcoreap
 E:\Inspire\Shahid\InspireERP-main\Inspire.Erp.Infrastructure\obj\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.csproj.CopyComplete
 E:\Inspire\Shahid\InspireERP-main\Inspire.Erp.Infrastructure\obj\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.dll
 E:\Inspire\Shahid\InspireERP-main\Inspire.Erp.Infrastructure\obj\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.pdb
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\bin\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.deps.json
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\bin\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.dll
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\bin\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.pdb
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\bin\Debug\netcoreapp3.1\Inspire.Erp.Domain.dll
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\bin\Debug\netcoreapp3.1\Inspire.Erp.Domain.pdb
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\obj\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.csproj.AssemblyReference.cache
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\obj\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\obj\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.AssemblyInfoInputs.cache
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\obj\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.AssemblyInfo.cs
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\obj\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\obj\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.csproj.CopyComplete
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\obj\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.dll
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Infrastructure\obj\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.pdb
