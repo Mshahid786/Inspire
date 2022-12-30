@@ -10,6 +10,6 @@ namespace Inspire.Erp.Application.VoucherPrinting.Interface
 {
     public interface IvoucherPrinting
     {
-        public Task<dynamic> getVoucherPrintReport(DateTime StartDate,DateTime EndDate,string VoucherNo,string VoucherTye,string ChequeNo,string VoucherNo_No);
+        public Task<dynamic> getVoucherPrintReport(DateTime StartDate,DateTime EndDate,string VoucherNoFrom,string VoucherNoTo,string VoucherTye,string ChequeNo,string VoucherNo_No);
     }
 }

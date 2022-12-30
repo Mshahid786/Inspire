@@ -48,8 +48,6 @@ E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\obj\Debug\netcoreapp3.
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\obj\Debug\netcoreapp3.1\Inspire.Erp.Application.AssemblyInfoInputs.cache
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\obj\Debug\netcoreapp3.1\Inspire.Erp.Application.AssemblyInfo.cs
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\obj\Debug\netcoreapp3.1\Inspire.Erp.Application.csproj.CoreCompileInputs.cache
-E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\obj\Debug\netcoreapp3.1\Inspire.Erp.Application.dll
-E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\obj\Debug\netcoreapp3.1\Inspire.Erp.Application.pdb
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\bin\Debug\netcoreapp3.1\Inspire.Erp.Application.deps.json
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\bin\Debug\netcoreapp3.1\Inspire.Erp.Application.dll
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\bin\Debug\netcoreapp3.1\Inspire.Erp.Application.pdb
@@ -58,3 +56,5 @@ E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\bin\Debug\netcoreapp3.
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\bin\Debug\netcoreapp3.1\Inspire.Erp.Domain.pdb
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\bin\Debug\netcoreapp3.1\Inspire.Erp.Infrastructure.pdb
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\obj\Debug\netcoreapp3.1\Inspire.Erp.Application.csproj.CopyComplete
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\obj\Debug\netcoreapp3.1\Inspire.Erp.Application.dll
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Application\obj\Debug\netcoreapp3.1\Inspire.Erp.Application.pdb

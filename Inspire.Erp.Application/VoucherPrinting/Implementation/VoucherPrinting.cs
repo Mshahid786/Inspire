@@ -26,11 +26,11 @@ namespace Inspire.Erp.Application.VoucherPrinting.Implementation
             _sr = sr;
         }
 
-        public async Task<dynamic> getVoucherPrintReport(DateTime StartDate, DateTime EndDate, string VoucherNo, string VoucherTye, string ChequeNo, string VoucherNo_No)
+        public async Task<dynamic> getVoucherPrintReport(DateTime StartDate, DateTime EndDate, string VoucherNoFrom,string VoucherNoTo, string VoucherTye, string ChequeNo, string VoucherNo_No)
         {
             try
             {
-                var response = await _sr.Set<GetVoucherPrintResponse>().FromSqlRaw($"EXEC GetVoucherPrinting @voucherNo,@VoucherType,@StartDate,@EndDate,@chequeNo,@VoucherNo_NU", new SqlParameter("@voucherNo", VoucherNo), new SqlParameter("@VoucherType", VoucherTye), new SqlParameter("@StartDate", StartDate), new SqlParameter("@EndDate", EndDate), new SqlParameter("@chequeNo", ChequeNo), new SqlParameter("@VoucherNo_NU", VoucherNo_No)).ToListAsync();
+                var response = await _sr.Set<GetVoucherPrintResponse>().FromSqlRaw($"EXEC GetVoucherPrinting @voucherNoFrom,@VoucherNOTo,@VoucherType,@StartDate,@EndDate,@chequeNo,@VoucherNo_NU", new SqlParameter("@voucherNoFrom", VoucherNoFrom),new SqlParameter("@VoucherNoTo",VoucherNoTo), new SqlParameter("@VoucherType", VoucherTye), new SqlParameter("@StartDate", StartDate), new SqlParameter("@EndDate", EndDate), new SqlParameter("@chequeNo", ChequeNo), new SqlParameter("@VoucherNo_NU", VoucherNo_No)).ToListAsync();
                 return response;
             }
             catch (Exception ex)

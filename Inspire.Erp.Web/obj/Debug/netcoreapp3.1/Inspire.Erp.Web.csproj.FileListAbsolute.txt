@@ -433,8 +433,6 @@ E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\Inspir
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\Inspire.Erp.Web.AssemblyInfo.cs
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\Inspire.Erp.Web.csproj.CoreCompileInputs.cache
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\Inspire.Erp.Web.MvcApplicationPartsAssemblyInfo.cache
-E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\Inspire.Erp.Web.dll
-E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\Inspire.Erp.Web.pdb
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\bin\Debug\netcoreapp3.1\appsettings.json
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\bin\Debug\netcoreapp3.1\inspiresystems-Client\angular.json
@@ -575,4 +573,6 @@ E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\bin\Debug\netcoreapp3.1\Inspir
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\staticwebassets\Inspire.Erp.Web.StaticWebAssets.Manifest.cache
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\Inspire.Erp.Web.RazorTargetAssemblyInfo.cache
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\Inspire.Erp.Web.csproj.CopyComplete
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\Inspire.Erp.Web.dll
+E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\Inspire.Erp.Web.pdb
 E:\Inspire\InspireUploadedWorking\Inspire.Erp.Web\obj\Debug\netcoreapp3.1\Inspire.Erp.Web.genruntimeconfig.cache

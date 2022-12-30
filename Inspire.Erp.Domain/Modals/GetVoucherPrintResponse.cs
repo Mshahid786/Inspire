@@ -8,7 +8,7 @@ namespace Inspire.Erp.Domain.Modals
     {
         public string AccountsTransactions_VoucherType { get; set; }
         public string AccountsTransactions_VoucherNo { get; set; }
-        public string AccountsTransactions_AccNo { get; set; }
+       // public string AccountsTransactions_AccNo { get; set; }
         public string MA_AccName { get; set; }
         public string AccountsTransactions_Particulars { get; set; }
         public decimal AccountsTransactions_Debit { get; set; }
