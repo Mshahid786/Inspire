@@ -6,8 +6,8 @@ namespace Inspire.Erp.Domain.Modals
 {
     public class StatementOfAccounts
     {
-        public DateTime StartDate { get; set; }
-        public DateTime EndDate { get; set; }
+        public System.DateTime StartDate { get; set; }
+        public System.DateTime EndDate { get; set; }
         public string Acno { get; set; }
         public string Description { get; set; }
         public string Particulars { get; set; }

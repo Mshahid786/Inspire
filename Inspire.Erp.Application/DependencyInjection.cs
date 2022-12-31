@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Inspire.Erp.Application.VoucherPrinting.Interface;
 using Inspire.Erp.Application.VoucherPrinting.Implementation;
 using Inspire.Erp.Application.StatementOfAccounts.Interface;
+using Inspire.Erp.Application.BalanceSheet.Interface;
 
 namespace Inspire.Erp.Application
 {
@@ -19,6 +20,7 @@ namespace Inspire.Erp.Application
     {
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
+            services.AddScoped<IBalanceSheet, Inspire.Erp.Application.BalanceSheet.Implementation.BalanceSheet>();
             services.AddScoped<IStatementOfAccountsSummary, Inspire.Erp.Application.StatementOfAccounts.Implementation.StatementOfAccountsSummary>();
             services.AddScoped<IStatementOfAccountsDetail, Inspire.Erp.Application.StatementOfAccounts.Implementation.StatementOFAccountsDetail>();
             services.AddScoped<IvoucherPrinting, Inspire.Erp.Application.VoucherPrinting.Implementation.VoucherPrinting>();
